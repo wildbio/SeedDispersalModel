@@ -1,5 +1,5 @@
 # SeedDispersalModel
-R code and data for modeling seed dispersal (more details in **Description** below)
+R code and data for modeling and visualizing seed dispersal (more details in **Description** below)
 
 *Originally published as Data S2 in Carr AN, Hooper DU, Dukes JS. 2019. Long-term propagule pressure overwhelms initial community determination of invader success. Ecosphere 10:e02826.*
 
